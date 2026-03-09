@@ -131,5 +131,5 @@ def dice(cnt, total):
     for i in range(1, 7):
         dice(cnt+1, total + i)
 
-dice(0, 0)
-print(result)
+# dice(0, 0)
+# print(result)
