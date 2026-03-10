@@ -1,5 +1,5 @@
-import sys
-sys.stdin = open('0310_ssafy_Greedy/input.txt', 'r')
+# import sys
+# sys.stdin = open('0310_ssafy_Greedy/input.txt', 'r')
 
 #주사위 N개를 던져서 나올 수 있는 눈금의 모든 조합 출력(구현)
 
