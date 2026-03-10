@@ -21,7 +21,7 @@ def recur(num):
     recur(num+1) #1번       
     recur(num+1)
 
-# recur(0)
+recur(0)
 
 
 def recur2(num):
@@ -32,4 +32,4 @@ def recur2(num):
     for i in range(1, 7):
         recur2(num + 1)
 
-recur2(0)
+# recur2(0)
